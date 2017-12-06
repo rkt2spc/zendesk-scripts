@@ -1,0 +1,989 @@
+[
+    {
+        "id": 22586732,
+        "title": "Subject",
+        "type": "subject",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586732.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 22586742,
+        "title": "Description",
+        "type": "description",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586742.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 22898418,
+        "title": "Topic",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22898418.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22586752,
+        "title": "Status",
+        "type": "status",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586752.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22900536,
+        "title": "Hardware, Technology, and Accessories",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22900536.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22586782,
+        "title": "Group",
+        "type": "group",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586782.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22586792,
+        "title": "Assignee",
+        "type": "assignee",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586792.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22896817,
+        "title": "Software, Installation, and Setup",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22896817.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22895997,
+        "title": "Company, Sales, and General Info",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22895997.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22586772,
+        "title": "Priority",
+        "type": "priority",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586772.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22586762,
+        "title": "Type",
+        "type": "tickettype",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22586762.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24504886,
+        "title": "Report Date",
+        "type": "date",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24504886.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24683766,
+        "title": "Ticket Reason",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24683766.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24553983,
+        "title": "Other Reason Detail",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24553983.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23451689,
+        "title": "App Account",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23451689.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 23780857,
+        "title": "Place of Purchase",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23780857.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 23812676,
+        "title": "Date of Purchase",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812676.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23780847,
+        "title": "Serial Number",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23780847.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24475395,
+        "title": "System Version",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24475395.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 22883081,
+        "title": "Order ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/22883081.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24351539,
+        "title": "Order Number",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24351539.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 23702129,
+        "title": "Issue",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23702129.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24234203,
+        "title": "Channel",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24234203.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24234213,
+        "title": "Product",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24234213.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24209476,
+        "title": "Language",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24209476.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25269046,
+        "title": "Part needed",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25269046.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23780947,
+        "title": "Returns, Replacements, and Refunds",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23780947.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23812696,
+        "title": "Technical Support",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812696.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24457595,
+        "title": "Language",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24457595.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25044663,
+        "title": "Style Number",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25044663.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23025192,
+        "title": "JIra",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23025192.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23812706,
+        "title": "Ordering and Shipping",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812706.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25109226,
+        "title": "Component",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25109226.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23812716,
+        "title": "Other Issues",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812716.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25044643,
+        "title": "Reaction",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25044643.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24416019,
+        "title": "Email Input",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24416019.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23812656,
+        "title": "Country",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812656.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23777693,
+        "title": "User Full Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23777693.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23812666,
+        "title": "Wearable Device Type",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23812666.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24416029,
+        "title": "App Version",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24416029.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24504683,
+        "title": "Host OS",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24504683.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23777683,
+        "title": "Host OS Version",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23777683.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24545186,
+        "title": "Host Maker",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24545186.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24545246,
+        "title": "Host Model",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24545246.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24506223,
+        "title": "Device Firmware Version",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24506223.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24935086,
+        "title": "Carrier",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24935086.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24638863,
+        "title": "Social Channel",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24638863.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24606646,
+        "title": "Product Type",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24606646.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25422586,
+        "title": "Other Social Channel",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25422586.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25211986,
+        "title": "What was the feedback?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25211986.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24615106,
+        "title": "Feature Request Detail",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24615106.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505606,
+        "title": "Knowledge Capture ARTICLE URL FLAG",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505606.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25044603,
+        "title": "What is the Promo Code?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25044603.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505866,
+        "title": "Knowledge Capture SECTION ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505866.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25109266,
+        "title": "What is the error message?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25109266.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505626,
+        "title": "Knowledge Capture ARTICLE LOCALE FLAG",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505626.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25044623,
+        "title": "What kind of contact?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25044623.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505886,
+        "title": "Knowledge Capture SECTION NAME",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505886.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25109246,
+        "title": "What was lost?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25109246.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505646,
+        "title": "Knowledge Capture Child Ticket IDs for FLAGS",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505646.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25044683,
+        "title": "What was found?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25044683.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505906,
+        "title": "Knowledge Capture CATEGORY ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505906.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24884463,
+        "title": "Store Issue",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24884463.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24884503,
+        "title": "Store Product Type",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24884503.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24505666,
+        "title": "Knowledge Capture ARTICLE ID CREATE",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505666.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24884483,
+        "title": "Store Activity High or Low?",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24884483.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24505926,
+        "title": "Knowledge Capture CATEGORY NAME",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505926.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505686,
+        "title": "Knowledge Capture ARTICLE TITLE CREATE",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505686.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24617723,
+        "title": "Date of Purchase_1",
+        "type": "date",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24617723.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24460563,
+        "title": "Replacement Reason",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24460563.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505706,
+        "title": "Knowledge Capture ARTICLE URL CREATE",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505706.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505126,
+        "title": "Replacement Reason 2",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505126.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505726,
+        "title": "Knowledge Capture ARTICLE LOCALE CREATE",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505726.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505486,
+        "title": "Knowledge Capture ARTICLE ID LINK",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505486.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24464303,
+        "title": "Replacement Reason 3",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24464303.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24470543,
+        "title": "Replacement Reason 4",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24470543.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505746,
+        "title": "Knowledge Capture CURRENT USER ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505746.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24470563,
+        "title": "Replacement Reason 5",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24470563.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505506,
+        "title": "Knowledge Capture ARTICLE TITLE LINK",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505506.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24464263,
+        "title": "Quantity",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24464263.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505766,
+        "title": "Knowledge Capture CURRENT USER NAME",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505766.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23124859,
+        "title": "Total time spent (sec)",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23124859.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505526,
+        "title": "Knowledge Capture ARTICLE URL LINK",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505526.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 23124849,
+        "title": "Time spent last update (sec)",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/23124849.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505786,
+        "title": "Knowledge Capture CURRENT USER EMAIL",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505786.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25343303,
+        "title": "Germany Views Assignment",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25343303.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505546,
+        "title": "Knowledge Capture ARTICLE LOCALE LINK",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505546.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25217683,
+        "title": "Received At",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25217683.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505806,
+        "title": "Knowledge Capture AUTHOR ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505806.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505566,
+        "title": "Knowledge Capture ARTICLE ID FLAG",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505566.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505826,
+        "title": "Knowledge Capture AUTHOR NAME",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505826.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505586,
+        "title": "Knowledge Capture ARTICLE TITLE FLAG",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505586.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24505846,
+        "title": "Knowledge Capture AUTHOR EMAIL",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24505846.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626106,
+        "title": "InContact_Contact_ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626106.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24579983,
+        "title": "InContact_Master_Contact_ID",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24579983.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626126,
+        "title": "InContact_Contact_Code",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626126.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580023,
+        "title": "InContact_Media_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580023.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626186,
+        "title": "InContact_Contact_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626186.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626206,
+        "title": "InContact_ANI_DIALNUM",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626206.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626226,
+        "title": "InContact_Skill_No",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626226.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626246,
+        "title": "InContact_Skill_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626246.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626266,
+        "title": "InContact_Campaign_No",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626266.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626306,
+        "title": "InContact_Campaign_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626306.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626326,
+        "title": "InContact_Agent_No",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626326.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626346,
+        "title": "InContact_Agent_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626346.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580063,
+        "title": "InContact_Team_No",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580063.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580083,
+        "title": "InContact_Team_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580083.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626366,
+        "title": "InContact_SLA",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626366.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580323,
+        "title": "InContact_Start_Date",
+        "type": "date",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580323.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580303,
+        "title": "InContact_start_time",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580303.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580423,
+        "title": "InContact_Abandon",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580423.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626686,
+        "title": "InContact_Logged",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626686.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626706,
+        "title": "InContact_Disp_Code",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626706.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24626726,
+        "title": "InContact_Disp_Name",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24626726.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24580483,
+        "title": "InContact_Tags",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24580483.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772866,
+        "title": "InContact_Callback_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772866.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24719883,
+        "title": "InContact_ACW_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24719883.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772886,
+        "title": "InContact_Hold_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772886.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24719903,
+        "title": "InContact_Routing_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24719903.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772906,
+        "title": "InContact_InQueue",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772906.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24719923,
+        "title": "InContact_Total_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24719923.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772926,
+        "title": "InContact_PostQueue",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772926.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772946,
+        "title": "InContact_PreQueue",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772946.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24719863,
+        "title": "InContact_Abandon_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24719863.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24553963,
+        "title": "Ticket Reason_Old (September 2016)",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24553963.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 24772846,
+        "title": "InContact_Agent_Time",
+        "type": "integer",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24772846.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25114626,
+        "title": "Test Customer Field 3",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25114626.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25114646,
+        "title": "Test Customer Field 4",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25114646.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25114666,
+        "title": "Test Customer Field 7",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25114666.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24281136,
+        "title": "Inquiring about - text field",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24281136.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25109046,
+        "title": "Website",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25109046.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25049403,
+        "title": "Test Customer Field 1",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25049403.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25478206,
+        "title": "eCom Issue",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25478206.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25049423,
+        "title": "Test Customer Field 2",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25049423.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25478226,
+        "title": "Repair Question",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25478226.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25390943,
+        "title": "iPerceptions Feedback",
+        "type": "tagger",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25390943.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25049443,
+        "title": "Test Customer Field 5",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25049443.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 25376103,
+        "title": "Don't Send Stella Feedback Survey",
+        "type": "checkbox",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25376103.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25049463,
+        "title": "Test Customer Field 6",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25049463.json",
+        "visible_in_portal": true
+    },
+    {
+        "id": 24239763,
+        "title": "Heard about MS from - text field",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/24239763.json",
+        "visible_in_portal": false
+    },
+    {
+        "id": 25134563,
+        "title": "What was the feedback?",
+        "type": "text",
+        "url": "https://fossil.zendesk.com/api/v2/ticket_fields/25134563.json",
+        "visible_in_portal": false
+    }
+]
