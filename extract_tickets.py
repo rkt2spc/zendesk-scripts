@@ -35,6 +35,7 @@ with open('result.tsv', 'w') as outfile:
         'Username',
         'Email',
         'Brand',
+        'Tags',
         'Style',
         'Product',
         'Z Product',
@@ -65,6 +66,7 @@ with open('result.tsv', 'w') as outfile:
             t.requester.name,  # Username
             t.requester.email,  # Email
             t.brand.name,  # Brand
+            ','.join(t.tags),  # Tags
             t.custom_fields_dict.get(25044663),  # Style
             t.custom_fields_dict.get(24606646),  # Product
             t.custom_fields_dict.get(24606646),  # Z Product
